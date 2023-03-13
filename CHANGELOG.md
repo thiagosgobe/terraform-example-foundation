@@ -1,5 +1,20 @@
 # Changelog
 
+## [3.1.0](https://github.com/terraform-google-modules/terraform-example-foundation/compare/v3.0.0...v3.1.0) (2023-03-13)
+
+
+### Features
+
+* add assured workload example ([#934](https://github.com/terraform-google-modules/terraform-example-foundation/issues/934)) ([be568ab](https://github.com/terraform-google-modules/terraform-example-foundation/commit/be568ab4267291591a81f679bd40acb78ba1ab64))
+
+
+### Bug Fixes
+
+* add cloud build bucket location ([#921](https://github.com/terraform-google-modules/terraform-example-foundation/issues/921)) ([cf3f117](https://github.com/terraform-google-modules/terraform-example-foundation/commit/cf3f1172c0b162acca07c3581dc9c745ca65d417))
+* **deps:** update go modules ([#933](https://github.com/terraform-google-modules/terraform-example-foundation/issues/933)) ([81be7ad](https://github.com/terraform-google-modules/terraform-example-foundation/commit/81be7ada7f8ab9e9bd1e52d5e5f9f274f7c8b871))
+* **deps:** update go modules ([#939](https://github.com/terraform-google-modules/terraform-example-foundation/issues/939)) ([8b7e50f](https://github.com/terraform-google-modules/terraform-example-foundation/commit/8b7e50f853ca64906468833fda1f7ee9508317f6))
+* **deps:** update module github.com/googlecloudplatform/cloud-foundation-toolkit/infra/blueprint-test to v0.5.0 ([#938](https://github.com/terraform-google-modules/terraform-example-foundation/issues/938)) ([0c7830d](https://github.com/terraform-google-modules/terraform-example-foundation/commit/0c7830da8c3f378ec61efd06dcdad38fa27cead7))
+
 ## [3.0.0](https://github.com/terraform-google-modules/terraform-example-foundation/compare/v2.3.1...v3.0.0) (2022-12-16)
 
 
